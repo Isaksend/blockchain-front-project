@@ -1,0 +1,3 @@
+function Dashboard() {
+    return null;
+}
