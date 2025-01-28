@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "title": "Favorite programming language",
+    "description": "Vote for your favorite programming language.",
+    "questions": [
+      {
+        "question": "Which language do you prefer?",
+        "options": ["JavaScript", "Python", "C++"],
+        "correctOption": 0
+      }
+    ],
+    "date": "2025-01-28T10:00:00Z"
+  },
+  {
+    "title": "My First Survey",
+    "description": "This is a test survey.",
+    "questions": [
+      {
+        "question": "What is your favorite color?",
+        "options": ["Red", "Blue", "Green"],
+        "correctOption": 1
+      }
+    ]
+  }
+
+]
